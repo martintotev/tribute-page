@@ -1,0 +1,71 @@
+html {
+	background-attachment: scroll;
+	background-image: linear-gradient(0deg, #434343, #000000 100%);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: 2000px;
+}
+
+body {
+	background: #fff;
+	border-radius: 15px;
+	box-shadow: 1px 2px 20px rgb(10, 10, 10);
+	color: black;
+	font-size: 18px;
+	line-height: 130%;
+	margin: auto;
+	margin-bottom: 150px;
+	margin-top: 50px;
+	max-width: 970px;
+	padding: 4em 4em 4em;
+}
+
+h1 {
+	color: black;
+	font-family: 'Fira Sans Extra Condensed';
+	font-size: 35px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h2 {
+	color: rgb(10, 10, 10);
+	font-family: 'Source Sans Pro';
+	padding: 20px;
+	text-align: center;
+}
+
+.paragraph1 {
+	font-family: source serif pro;
+	margin: 0 auto;
+	padding: 50px 100px;
+}
+
+.captiontext-center{
+	font-family: Source Sans Pro;
+	margin: 15px;
+	text-align: center;
+}
+
+.unorderlist{
+	align-content: center;
+	line-height: 200%;
+	padding: 4em;
+}
+
+/*Image CSS from this line down*/
+
+.ProfilePhoto {
+	border-radius: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.NextComp {
+	border-radius: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
