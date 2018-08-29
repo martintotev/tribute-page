@@ -14,15 +14,6 @@ body {
     margin: auto;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    /* font-weight: 800; */
-}
-
 .text-center {
     text-align: center;
     padding: 1rem;
@@ -64,7 +55,7 @@ h6 {
 }
 
 .body {
-    font-family;
+    font-family: 'Open Sans Pro';
     padding: 2rem;
     margin: 1rem;
 }
